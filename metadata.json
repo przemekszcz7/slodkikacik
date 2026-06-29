@@ -1,0 +1,6 @@
+{
+  "name": "Slodki Kacik",
+  "description": "Nowoczesna i elegancka strona wizytówkowa pracowni słodyczy Słodki Kącik w Sierpcu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
